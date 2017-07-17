@@ -4,7 +4,7 @@ Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Flash Chat Ap
 Download the starter project files as .zip and extract the files to your desktop. 
 
 ## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
+![Finished App](https://github.com/buchnersantos/Assets/blob/master/Image%202017-07-17%20at%2011.03.27%20PM.png)
 
 
 
